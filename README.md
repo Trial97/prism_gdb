@@ -2,7 +2,7 @@
 
 ## Setup
 
-1. Download debug build form https://nightly.link/PrismLauncher/PrismLauncher/workflows/trigger_builds/develop (recomandation file that starts with `PrismLauncher-Windows-MinGW-w64-Portable-`)
+1. Download debug build form https://nightly.link/PrismLauncher/PrismLauncher/workflows/build/develop (recomandation file that starts with `PrismLauncher-Windows-MinGW-w64-Portable-`)
 2. Extract it(somewhere nice like desktop)
 3. Download gdb executables from https://github.com/noword/GDB-Windows-Binaries
 4. Place all that exe files from previous steps on the same level as prismlauncher.exe inside the portable directory(not all executables are needed but to be safe copy them all please)
